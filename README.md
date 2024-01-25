@@ -4,6 +4,20 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+all of my New code in UserGuide:
+Location of my proj: src/app/UI/UserGuide
+
+```bash
+install dependencies
+
+npm i --save-dev @types/react-router-hash-link
+#and
+npm install --save react-router-hash-link
+#and
+npm install react-router-dom
+
+```
+
 ```bash
 npm run dev
 # or
